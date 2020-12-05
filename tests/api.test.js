@@ -210,4 +210,12 @@ describe('Test getting single event by id', () => {
   test("Using id x should return error message", async () => {
     return await request(app).get("/api/events/x").expect('Could not find event with given id.');
   });
+
+  test("Using id -1 should return 404 status code", async () => {
+    return await request(app).get("/api/events/-1").expect(404);
+  });
+
+  test("Using id -1 should return error message", async () => {
+    return await request(app).get("/api/events/-1").expect('Could not find event with given id.');
+  });
 });
