@@ -1,4 +1,4 @@
-# Go1-backend
+# Events Backend
 
 Backend API made using NodeJS and Express. Serves as a way to send events to frontend. Events is an array of objects found in the events.js file.
 
