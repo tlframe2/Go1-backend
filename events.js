@@ -2,7 +2,7 @@ module.exports = ([
   {
     Title: "Infection Prevention and Control (Australia)",
     Time: "2021-03-22T02:30:00.000Z",
-    Image: "http://example.com/image.png",
+    Image: "https://images.unsplash.com/photo-1579781403261-cbc8f5010479?ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=1350&q=80",
     Location: {
       City: "Brisbane",
       State: "Queensland",
@@ -12,7 +12,7 @@ module.exports = ([
   {
     Title: "Wellbeing First - Mindfulness",
     Time: "2021-03-24T02:30:00.000Z",
-    Image: "http://example.com/image.png",
+    Image: "https://images.unsplash.com/photo-1602276507500-600178f63aae?ixid=MXwxMjA3fDB8MHxzZWFyY2h8MTZ8fG1pbmRmdWxsbmVzc3xlbnwwfHwwfA%3D%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60",
     Location: {
       City: "Cairns",
       State: "Queensland",
@@ -30,7 +30,7 @@ module.exports = ([
   {
     Title: "10 Minutes Managing Stress",
     Time: "2021-03-24T02:30:00.000Z",
-    Image: "http://example.com/image.png",
+    Image: "https://images.unsplash.com/photo-1456406644174-8ddd4cd52a06?ixid=MXwxMjA3fDB8MHxzZWFyY2h8NHx8c3RyZXNzfGVufDB8fDB8&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60",
     Location: {
       City: "Gold Coast",
       State: "Queensland",
@@ -48,7 +48,7 @@ module.exports = ([
   {
     Title: "10 Minute Pandemic Awareness",
     Time: "2021-03-24T02:30:00.000Z",
-    Image: "http://example.com/image.png",
+    Image: "https://images.unsplash.com/photo-1584981344812-aac1f5a6ec91?ixid=MXwxMjA3fDB8MHxzZWFyY2h8OHx8cGFuZGVtaWN8ZW58MHx8MHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60",
     Location: {
       City: "Gold Coast",
       State: "Queensland",
@@ -66,7 +66,7 @@ module.exports = ([
   {
     Title: "Morning Yoga Kickstart",
     Time: "2021-03-24T02:30:00.000Z",
-    Image: "http://example.com/image.png",
+    Image: "https://images.unsplash.com/photo-1560750844-15df4e073770?ixid=MXwxMjA3fDB8MHxzZWFyY2h8MTB8fG1pbmRmdWxsbmVzc3xlbnwwfHwwfA%3D%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60",
     Location: {
       City: "Gold Coast",
       State: "Queensland",
@@ -84,7 +84,7 @@ module.exports = ([
   {
     Title: "Hand Hygiene in the Workplace",
     Time: "2021-03-24T02:30:00.000Z",
-    Image: "http://example.com/image.png",
+    Image: "https://images.unsplash.com/photo-1584402710722-32f7be5bc98e?ixid=MXwxMjA3fDB8MHxzZWFyY2h8MTh8fHdhc2hpbmclMjBoYW5kc3xlbnwwfHwwfA%3D%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60",
     Location: {
       City: "Gold Coast",
       State: "Queensland",
@@ -102,7 +102,7 @@ module.exports = ([
   {
     Title: "Equal Employment Opportunity",
     Time: "2021-03-24T02:30:00.000Z",
-    Image: "http://example.com/image.png",
+    Image: "https://images.unsplash.com/photo-1561489422-45de3d015e3e?ixid=MXwxMjA3fDB8MHxzZWFyY2h8MTR8fGVxdWFsJTIwZW1wbG95bWVudHxlbnwwfHwwfA%3D%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60",
     Location: {
       City: "Gold Coast",
       State: "Queensland",
@@ -120,7 +120,7 @@ module.exports = ([
   {
     Title: "First Aid - Basics",
     Time: "2021-03-24T02:30:00.000Z",
-    Image: "http://example.com/image.png",
+    Image: "https://images.unsplash.com/photo-1563260324-5ebeedc8af7c?ixid=MXwxMjA3fDB8MHxzZWFyY2h8NHx8Zmlyc3QlMjBhaWR8ZW58MHx8MHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60",
     Location: {
       City: "Gold Coast",
       State: "Queensland",
